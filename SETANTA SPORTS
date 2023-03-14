@@ -1,0 +1,79 @@
+
+<html>
+<h1 style="backgraound: white"><center>SETANTA SPORTS</center></h1>
+</html>
+<body bgcolor="gray">
+<table cellpadding="10" width="" bgcolor="white" align="center"
+cellspacing="10">
+<body>
+  <form id="registration-form">
+    <tr>
+    <td><label for="name">CREATE ACCOUNT</label></td>
+  </tr>
+    <tr>
+    <td><label for="name">Email*</label></td>
+  </tr>
+  <tr>
+    <td><input type="text" id="name" name="name" placeholder= ></td>
+    <tr>
+      <td><label for="name">Phone Number*</label></td>
+    </tr>
+    <tr>
+    <td><input type="text" id="name" name="name" placeholder="+(63)" required></td>
+    </tr>
+    <tr>
+      <td><label for="name">Full Name*</label></td>
+    </tr>
+    <td><input type="text" id="name" name="name" placeholder= ></td>
+    <tr>
+    <td><label for="name">BILLING ADDRESS</label></td>
+  </tr>
+    
+        <tr>
+            <td>
+                Country*
+            </td>
+          <tr>
+            <td>
+                <select>
+                    <option>Philippines</option>
+                    <option>Armenia</option>
+                    <option>Azerbaijan</option>
+                    <option>Belarus</option>
+                    <option>Estonia</option>
+                    <option>Georgia</option>
+                    <option>Kazakhstan</option>
+                    <option>Latvia</option>
+                    <option>Lithuania</option>
+                    <option>Moldova</option>
+                    <option>Philippines</option>
+                    <option>Tajikistan</option>
+                    <option>Turkmenistan</option>
+                    <option>Ukraine</option>
+                    <option>Uzbekistan</option>
+                <select>
+            </td>
+    <tr>
+      <td><label for="name">Zip Code*</label></td>
+    </tr>
+        <tr>
+    <td><input type="text" id="name" name="name" placeholder= ></td>
+    <tr>
+      <td><label for="Password">Password*</label></td>
+    </tr>
+        <tr>
+    <td><input type="Password" id="Password" name="Password" placeholder= ></td>
+    <tr>
+      <td><label for="name">Confirm Password*</label></td>
+    </tr>
+    <td><input type="text" id="name" name="name" placeholder= ></td>
+
+    
+
+
+           
+      <tr>
+    <td><label for="text"></label></td>
+    <td><input type="submit" value="CONTINUE"></td>
+    </tr>
+  </form>
